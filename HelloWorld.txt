@@ -1,6 +1,6 @@
 class HelloWorld{
 
-void mymethod()
+void welcome()
 {
 
 system.out.println("hello");
@@ -8,7 +8,7 @@ system.out.println("hello");
 
 	public static void main(String args[]){
 		
-		mymethod();
+		welcome();
 		}
 
 }
